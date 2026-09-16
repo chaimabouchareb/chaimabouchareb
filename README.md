@@ -17,7 +17,6 @@ I focus on understanding business requirements, designing effective test strateg
 * 🔌 Exploring **API Testing with Postman**
 * 🗄️ Working with **SQL and database validation**
 * 📊 Interested in **data validation and migration testing**
-* 📚 Currently developing my testing knowledge through **ISTQB Foundation** preparation
 
 ---
 
@@ -112,26 +111,6 @@ Automated end-to-end testing projects using:
 API testing projects using:
 
 **Postman + REST APIs + JSON**
-
----
-
-## 📈 Currently Learning
-
-I'm continuously improving my skills in:
-
-```text
-ISTQB Foundation
-       ↓
-Test Design Techniques
-       ↓
-Playwright + TypeScript
-       ↓
-API Automation
-       ↓
-CI/CD & Jenkins
-       ↓
-Advanced Test Automation
-```
 
 ---
 
